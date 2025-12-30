@@ -10,9 +10,6 @@ How to start git
 
 ## 오늘 한 것
 
-
-````md
-
 ## 1. 오늘의 목표
 
 - Git과 GitHub의 기본 개념 이해
@@ -36,10 +33,10 @@ How to start git
 
 ## 3. 로컬에 저장소 연결 (clone)
 
-```bash
+```
 git clone {repo_address}
 cd {repo_name}
-````
+```
 
 ### 기본 명령어
 
@@ -81,13 +78,11 @@ README는 **저장소의 소개 문서** 역할을 한다.
 * **Description** : 한 줄 설명
 * **Prerequisites** : 요구사항
 * **How to Start** : 실행 방법
-OAOAOA* **Installation** : 설치 방법
-OAOAOA* **Features** : 주요 기능
-* **Run Tests (optional)** : 테스트 방법
-OAOAOA* **Credits** : 기여자
-OAOAOA
+**Installation** : 설치 방법
+**Features** : 주요 기능
+* **Tests (optional)** : 테스트 방법
+
 ---
-OAOAOA
 ## 6. Vim 기본 조작 (파일 수정)
 
 ```bash
